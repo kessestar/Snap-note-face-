@@ -1,0 +1,6 @@
+{
+  "name": "KESSE Ap",
+  "description": "Analyse faciale et corporelle par IA pour évaluer votre esthétique, donner des conseils de beauté, produits cosmétiques et style vestimentaire personnalisés.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
